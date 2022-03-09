@@ -1,0 +1,12 @@
+header.header {
+  padding:60px 0 60px 0;
+  background-color:#0dcaf0;
+  width:100%;
+  margin:0 0 24px 0;
+}
+
+footer.footer {
+  padding:60px;
+  margin:24px 0 0 0;
+  background-color: #F3F3F3;
+}
